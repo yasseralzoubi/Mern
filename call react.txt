@@ -1,0 +1,11 @@
+1- npm create vite@latest
+ 
+2- name project
+ 
+3- select React
+ 
+4- select JavaScript + SWC
+ 
+5- cd project name
+ 
+6- npm install
