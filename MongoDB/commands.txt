@@ -1,0 +1,33 @@
+1- mkdir project-mern
+
+2- cd project-mern
+
+3- npm create vite@latest
+
+4- projectname client
+
+5- back to project-mern file
+
+6- mkdir server
+
+7-cd server
+
+8- mkdir config , controllers , models , routes
+
+9- npm install express mongoose cors dotenv
+
+10- npm init -y
+
+11-npm install nodemon --save-dev
+
+12-then make cmd code. in project-mern
+
+13- create server.js in server file
+
+14- create mongoose.config.js in config file
+
+15-create controller.js in controllers file
+
+16- create model.js in models file
+
+17- create routes.js in routes file
